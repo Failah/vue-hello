@@ -12,7 +12,8 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-            message: 'Hello everyone, i\'m using Vue.js!'
+            message: 'Hello everyone, i\'m using Vue.js!',
+            image: "img/01.jpg",
         }
     }
 )
