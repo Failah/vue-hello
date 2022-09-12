@@ -1,0 +1,18 @@
+#root div:nth-child(2) {
+    margin-top: 30px;
+}
+
+#root div:nth-child(2) input {
+    width: 40vw;
+    border: 1px solid black;
+}
+
+h1 {
+    min-height: 37px;
+    width: 80vw;
+    border: 1px solid black;
+}
+
+hr {
+    margin: 50px 0px;
+}
